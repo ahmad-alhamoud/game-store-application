@@ -3,6 +3,7 @@ package com.ahmad.store.category;
 import com.ahmad.store.commen.BaseEntity;
 import com.ahmad.store.game.Game;
 import jakarta.persistence.Entity;
+import jakarta.persistence.NamedQuery;
 import jakarta.persistence.OneToMany;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
